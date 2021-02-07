@@ -43,3 +43,5 @@ ninjas.forEach(doYourThing);
 function doYourThing(nin) {
   console.log(`${nin.name} has a special power: ${nin.power}`);
 }
+
+//test
